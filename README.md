@@ -2,6 +2,7 @@
 [Full Dashboard](https://joshuatochinwachi.github.io/Mezo-Chain-Project) | [Data story telling on 𝕏](https://x.com/defi__josh/status/1924202448203190390)
 
 This dashboard and entire analysis was built and developed using [Flipside Crypto](https://flipsidecrypto.xyz) by me. Unfortunately, Flipside’s querying and dashboarding tool has gone dark because of their collaboration with [Snowflake](https://www.snowflake.com/en/).
+
 Flipside also used Snowflake’s SQL dialect as their SQL flavor when they were active, so the SQL code you’ll see in this project—for both querying and dashboarding—is very similar to Snowflake’s syntax.
 
 Using [Python scripts](https://github.com/joshuatochinwachi/Flipside_dashboard_porter), I scraped my Flipside dashboard and visualizations from the Flipside website.
