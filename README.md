@@ -1,5 +1,5 @@
 # What's really going on with Mezo (testnet) chain?
-[Full Dashboard](https://joshuatochinwachi.github.io/Mezo-Chain-Project) | [Data story telling on 𝕏](https://x.com/defi__josh/status/1924202448203190390)
+[Full Dashboard](https://joshuatochinwachi.github.io/Rise-chain-project/network-activity-overview/index.html) | [Data story telling on 𝕏](https://x.com/defi__josh/status/1924202448203190390)
 
 This dashboard and entire analysis was built and developed using [Flipside Crypto](https://flipsidecrypto.xyz) by me. Unfortunately, Flipside’s querying and dashboarding tool has gone dark because of their collaboration with [Snowflake](https://www.snowflake.com/en/).
 
